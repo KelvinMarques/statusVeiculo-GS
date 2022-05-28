@@ -28,5 +28,6 @@ public class statusVeiculoController {
 		model.addObject("veiculo", veiculo);
 		model.addObject("resultado", resultado);
 		return model;
+		
 	}
 }
